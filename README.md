@@ -62,8 +62,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fixxxseir&theme=tokyonight" alt="GitHub Streak Stats"/>
 </p>
 
-![Snake animation](https://github.com/Fixxxseir/Fixxxseir/blob/output/github-contribution-grid-snake.svg)
-
 
 ## 🤝 Связаться со мной
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Fixxxseir)
