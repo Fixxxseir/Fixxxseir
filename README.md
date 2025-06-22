@@ -56,6 +56,6 @@
 
 ## 🤝 Связаться со мной
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Fixxxseir)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Fixxxseir)
 
----
-⭐️ От [Fixxxseir](https://github.com/Fixxxseir)
+
